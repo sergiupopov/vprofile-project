@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/Sergiu Popov/Desktop/TEst/vprofile-project-1/vagrant/Automated_provisioning_WinMacIntel","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}

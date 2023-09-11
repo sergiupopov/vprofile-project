@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-hostmanager",["= 1.8.10"]],["vagrant-timezone",["= 1.3.0"]]],"checksum":"469e80cb655be087aa24b917655f1262bb7b21281f065d87d169c7428e893cd0","vagrant_version":"2.3.4"}
